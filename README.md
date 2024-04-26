@@ -12,14 +12,14 @@
 
 
 
-<h3 align='center'>
+<div align='center'>
     <a href='https://www.reddit.com/user/spyel/'>
         <img src='https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white'/>
     </a>
     <a href='https://spyels.itch.io/'>
         <img src='https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white'/>
     </a>
-</h3>
+</div>
 
 
 
