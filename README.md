@@ -30,6 +30,7 @@
 <a href='/'><img src='https://skillicons.dev/icons?i=css'/></a>
 <a href='https://react.dev/'><img src='https://skillicons.dev/icons?i=react'/></a>
 <a href='https://getbootstrap.com/'><img src='https://skillicons.dev/icons?i=bootstrap'/></a>
+<a href='https://tailwindcss.com/'><img src='https://skillicons.dev/icons?i=tailwind'/></a>
 <a href='https://nodejs.org'><img src='https://skillicons.dev/icons?i=nodejs'/></a>
 <a href='https://www.djangoproject.com/'><img src='https://skillicons.dev/icons?i=django'/></a>
 <a href='/'><img src='https://skillicons.dev/icons?i=cs'/></a>
