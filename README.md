@@ -25,15 +25,15 @@
 
 <h3>🔧 Languages and Tools:</h3>
 <a href='https://www.python.org/' target='_blank'><img src='https://skillicons.dev/icons?i=python'/></a>
-<a href='/'><img src='https://skillicons.dev/icons?i=js'/></a>
+<a href='https://www.djangoproject.com/' target='_blank'><img src='https://skillicons.dev/icons?i=django'/></a>
 <a href='/'><img src='https://skillicons.dev/icons?i=html'/></a>
 <a href='/'><img src='https://skillicons.dev/icons?i=css'/></a>
+<a href='https://getbootstrap.com/' target='_blank'><img src='https://skillicons.dev/icons?i=bootstrap'/></a>
+<a href='https://tailwindcss.com/' target='_blank'><img src='https://skillicons.dev/icons?i=tailwind'/></a>
+<a href='/'><img src='https://skillicons.dev/icons?i=js'/></a>
 <a href='https://nodejs.org' target='_blank'><img src='https://skillicons.dev/icons?i=nodejs'/></a>
 <a href='https://svelte.dev/' target='_blank'><img src='https://skillicons.dev/icons?i=svelte'/></a>
 <a href='https://react.dev/' target='_blank'><img src='https://skillicons.dev/icons?i=react'/></a>
-<a href='https://getbootstrap.com/' target='_blank'><img src='https://skillicons.dev/icons?i=bootstrap'/></a>
-<a href='https://tailwindcss.com/' target='_blank'><img src='https://skillicons.dev/icons?i=tailwind'/></a>
-<a href='https://www.djangoproject.com/' target='_blank'><img src='https://skillicons.dev/icons?i=django'/></a>
 <a href='/'><img src='https://skillicons.dev/icons?i=cs'/></a>
 <a href='https://dotnet.microsoft.com' target='_blank'><img src='https://skillicons.dev/icons?i=dotnet'/></a>
 <a href='https://godotengine.org/' target='_blank'><img src='https://skillicons.dev/icons?i=godot'/></a>
