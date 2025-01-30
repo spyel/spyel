@@ -51,7 +51,7 @@ class User:
         self.display_name = 'spyel'
         self.location = 'Germany'
         self.position = 'Software Developer'
-        self.learning = ['Starlette', 'C++']        
+        self.learning = ['FastAPI', 'C']        
 
     def say_hi(self):
         print('Thanks for dropping by, hope you find some of my work interesting.')
